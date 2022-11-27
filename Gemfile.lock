@@ -1,0 +1,12 @@
+GEM
+  specs:
+    racc (1.5.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  racc
+
+BUNDLED WITH
+   2.3.16
